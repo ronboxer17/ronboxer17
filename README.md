@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronboxer17
 - 👀 I’m interested in ML & Data Science
-- 🌱 I’m currently learning MSC in ML & Data Science
+- 🌱 I’m currently working as a Data-scientist in Dot Compliance 
 - 📫 ronboxer17@gmail.com
 
 <!---
